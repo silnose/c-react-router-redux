@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-env", // ES6 2S201
+        "@babel/preset-react" //jsx react
+    ]
+}
